@@ -1,0 +1,1 @@
+web: gunicorn strorage_space.wsgi
